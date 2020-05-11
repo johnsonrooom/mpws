@@ -1,2 +1,2 @@
 # mpws
-miniprogram websocket implementation, first targeting wechat, then others laters
+miniprogram websocket implementation, first targeting wechat, followed by others.
