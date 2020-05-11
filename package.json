@@ -1,10 +1,10 @@
 {
   "name":"mpws",
-  "version":"1.0.5",
+  "version":"1.0.6",
   "main":"dist/mpws.js",
   "license": "MIT",
   "author": { 
-    "name": "Wang, Zhongxin",
+    "name": "Wang,Zhongxin",
     "email": "johnsonroom@hotmail.com"
   },
   "repository": {
