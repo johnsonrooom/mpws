@@ -1,0 +1,22 @@
+{
+  "name":"mpws",
+  "version":"1.0.5",
+  "main":"dist/mpws.js",
+  "license": "MIT",
+  "author": { 
+    "name": "Wang, Zhongxin",
+    "email": "johnsonroom@hotmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/johnsonrooom/mpws"
+  },
+  "scripts":{
+    "build": "tsc"
+  },
+  "dependencies": {
+    "eventemitter3": "^3.1.0"
+  },
+  "devDependencies": {
+    "typescript":"~3.8.3"
+  }
+}
