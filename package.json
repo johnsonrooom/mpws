@@ -10,6 +10,7 @@
   "repository": {
     "url": "https://github.com/johnsonrooom/mpws"
   },
+  "keywords": ["websocket","miniprogram","wx","wechat"],
   "scripts":{
     "build": "tsc"
   },
