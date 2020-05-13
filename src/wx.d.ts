@@ -1,8 +1,8 @@
 declare namespace wx {
     interface CommonOptions {
-        success?: () => void;
-        fail?: (res:any) => void;
-        complete?: () => void;
+        success?: (res:{errMsg:string}) => void;
+        fail?: (res:{errMsg:string}) => void;
+        complete?: (res:{errMsg:string}) => void;
     }
 
     class SocketTask {
